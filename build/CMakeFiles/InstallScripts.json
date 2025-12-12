@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Backtest/hft_backtester/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
